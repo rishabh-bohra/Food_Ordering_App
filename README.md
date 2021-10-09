@@ -6,6 +6,6 @@ Application to order food, created using ReactJS
 2) Run the following commands 
 
 ```
-1) npm install 
-2) npm start
+npm install 
+npm start
 ```
